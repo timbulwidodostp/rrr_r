@@ -1,6 +1,8 @@
 # rrr_r
 Reduced rank regression Use rrr With (In) R Software
 
+https://www.youtube.com/watch?v=yTsysB0y3jI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
